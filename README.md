@@ -86,7 +86,9 @@ HF_TOKEN=your_huggingface_token_here
 
 ## 🖼️ Preview
 
-![MediBot Preview](https://cdn-icons-png.flaticon.com/512/2966/2966321.png)
+
+![Screenshot (338)](https://github.com/user-attachments/assets/63fa3b74-2c57-4987-9f6b-b0cad33721e5)
+
 
 ---
 
