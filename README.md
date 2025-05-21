@@ -86,6 +86,9 @@ HF_TOKEN=your_huggingface_token_here
 
 ## 🖼️ Preview
 
+![Screenshot (331)](https://github.com/user-attachments/assets/ed95098c-3a17-4c33-a331-78fa2beca35d)
+![Screenshot (332)](https://github.com/user-attachments/assets/f6090300-04e6-42ac-ad83-7ded5b7183b7)
+![Screenshot (333)](https://github.com/user-attachments/assets/72678bf3-282b-431d-9647-9ce18a56f201)
 
 ![Screenshot (338)](https://github.com/user-attachments/assets/63fa3b74-2c57-4987-9f6b-b0cad33721e5)
 
